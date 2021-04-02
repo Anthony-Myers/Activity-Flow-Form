@@ -9,8 +9,6 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class CongratulationsActivity extends AppCompatActivity {
     TextView firstName, surname, email, password;
-    //Intent intent = new Intent(this, PasswordActivity.class);
-
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
