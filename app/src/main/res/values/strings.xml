@@ -9,5 +9,5 @@
     <string name="email">Email Address</string>
     <string name="create_a_password">Create a password</string>
     <string name="password">Password</string>
-    <string name="well_done_message">Well done!<br/>Sign up complete</string>
+    <string name="well_done_message">Well done!<br/> Sign up complete</string>
 </resources>
